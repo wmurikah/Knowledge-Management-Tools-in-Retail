@@ -1,4 +1,4 @@
-# Knowledge-Management-Tools-in-Retail
+# Powerpoint Knowledge-Management-Tools-in-Retail
 Knowledge management tools used in retail for discovery, capturing, storage, processing, and sharing of knowledge.
 ![image](https://github.com/user-attachments/assets/a573d56c-0909-4e55-9106-d694e317271d)
 ![image](https://github.com/user-attachments/assets/a8a441b7-4e14-4518-84f3-c344c816c58e)
